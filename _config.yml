@@ -1,7 +1,7 @@
 # --- GŁÓWNE USTAWIENIA ---
-title: Tytuł bloga # Wpisz tutaj swój tytuł bloga
-description: Opis bloga # Wpisz tutaj swój opis bloga
-url: "https://to3k.github.io" # Zmień tutaj mój login na swój
+title: BLOG STARTOWY / TESTOWY # Wpisz tutaj swój tytuł bloga
+description: Będziemy tu prowadzili jakieś głupoty.... # Wpisz tutaj swój opis bloga
+url: "https://chrissthedrummer.github.io" # Zmień tutaj mój login na swój
 baseurl: "" 
 favicon: favicon.png # ikonę wrzuć do głównego folderu repozytorium pod tą nazwą (najlepiej rozdzielczość 192x192 albo 512x512)
 
